@@ -25,7 +25,10 @@ An automated script is implemented using Java and JUnit to **fill out and submit
 ![Web Automation](https://github.com/user-attachments/assets/ab31376a-07df-4c7f-a66a-bef418ac4d80)
 
 **Recorded Automation Video:**  
-![Watch Video](https://github.com/user-attachments/assets/fc2ca652-fe9c-475e-aaf1-51ec399e004d)
+[![Watch the video](https://github.com/user-attachments/assets/ab31376a-07df-4c7f-a66a-bef418ac4d80)](https://github.com/user-attachments/assets/fc2ca652-fe9c-475e-aaf1-51ec399e004d)
+
+
+
 
 ---
 
@@ -41,7 +44,7 @@ A script was developed to **scrape table data** from the DSE website, which cont
 ![DSE Table Scraping](https://github.com/user-attachments/assets/1fcaad33-6c4b-416f-8faf-204c33d8303a)
 
 **Recorded Automation Video:**  
-![Watch Video](https://github.com/user-attachments/assets/a5d254fe-e9a6-4fdc-9114-e77c55f32ac6) 
+[![Watch the video](https://github.com/user-attachments/assets/1fcaad33-6c4b-416f-8faf-204c33d8303a)](https://github.com/user-attachments/assets/a5d254fe-e9a6-4fdc-9114-e77c55f32ac6)
 
 ---
 
@@ -51,5 +54,6 @@ A script was developed to **scrape table data** from the DSE website, which cont
 - Clean and maintainable code leveraging **Selenium WebDriver**.
 
 ---
+
 
 
