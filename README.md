@@ -1,4 +1,4 @@
-# Assignment on JUnit: Web Automation & Web Scraping
+# Project on JUnit: Web Automation & Web Scraping
 
 This project demonstrates **web automation testing** and **web scraping** on two websites using **Java**, **Selenium**, and **JUnit**.
 
@@ -53,6 +53,7 @@ https://github.com/user-attachments/assets/c2ab2e66-ec52-4690-be1b-b2ae6bb6f656
 - Clean and maintainable code leveraging **Selenium WebDriver**.
 
 ---
+
 
 
 
